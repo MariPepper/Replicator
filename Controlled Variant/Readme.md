@@ -6,8 +6,9 @@ Unlike the original automatic daemon, Version 2 provides **full user control**, 
 
 ---
 
-## 1. Purpose of Version 2
+## 1. Anti-Censorship Purpose 
 
+In an information‑warfare scenario where documents (e.g., books, research, archives) are being selectively deleted, this daemon can:
 Version 2 was created to:
 
 - avoid uncontrolled infinite replication loops  
@@ -113,7 +114,7 @@ Extensions: .pdf, .epub, .docx
 
 ---
 
-## 4. Running Version 2
+## 4. Running 
 
 Execute the script:
 
@@ -138,9 +139,8 @@ The tool will operate inside the **current working directory**, meaning:
 
 ---
 
-## 6. Intended Use/Anti-censorship
+## 6. Intended Use
 
-In an information‑warfare scenario where documents (e.g., books, research, archives) are being selectively deleted, this daemon can:
 Version 2 is designed for:
 
 - document preservation  
