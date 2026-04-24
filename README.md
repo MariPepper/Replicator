@@ -40,7 +40,7 @@ This script must not be used on:
 
 You are fully responsible for any operational impact.
 
-How It Works
+**How It Works:**
 
 - The daemon starts in the current working directory.
 
