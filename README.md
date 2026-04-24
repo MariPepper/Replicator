@@ -70,7 +70,7 @@ In digital warfare scenarios, uncontrolled replication can:
 
 This script is intentionally aggressive and unbounded, reflecting a warfare‑grade behavior pattern.
 
-## Running
+**Running**
 ```bash
 
    python daemon.py
