@@ -39,6 +39,7 @@ This script must not be used on:
 - environments where uncontrolled replication is unsafe
 
 You are fully responsible for any operational impact.
+
 How It Works
 
 - The daemon starts in the current working directory.
@@ -74,6 +75,6 @@ This script is intentionally aggressive and unbounded, reflecting a warfare‑gr
 
    python daemon.py
 
-```Stop with:
+Stop with:
 
    Ctrl + C
